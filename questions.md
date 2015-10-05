@@ -36,3 +36,4 @@ They are just fancier ways of adding strings
   "Maroon " + 5.to_s
   * `ture == flase`
   true == false
+
